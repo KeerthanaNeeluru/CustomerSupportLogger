@@ -292,3 +292,12 @@ C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLo
 C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\Moq.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\Phase4\CustomerSupport\CustomerSupportLogger\CustomerSupportLogger\bin\Debug\net6.0\nunit.framework.dll
